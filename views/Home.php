@@ -46,7 +46,7 @@
 
                         </div>
                         <div class="card-footer text-center bg-transparent border-0 ">
-                            <button name="download_thumbnails" type="submit" class="btn btn-success col-12">Download Thumbnails</button>
+                            <button name="download_thumbnails" type="submit" class="btn btn-success col-12">Download Thumbnail</button>
                         </div>
                             <div class="card-footer border-top-0 d-flex justify-content-center align-items-center">
                                 <p class="source-web">© 2021 Made by
