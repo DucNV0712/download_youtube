@@ -48,6 +48,11 @@
                         <div class="card-footer text-center bg-transparent border-0 ">
                             <button name="download_thumbnails" type="submit" class="btn btn-success col-12">Download Thumbnails</button>
                         </div>
+                            <div class="card-footer border-top-0 d-flex justify-content-center align-items-center">
+                                <p class="source-web">© 2021 Made by
+                                    <a class="fw-bold text-success" href="https://www.linkedin.com/in/7thdec/"> Nguyen Van Duc</a>
+                                </p>
+                            </div>
                         </form>
                     </div>
                 </div>
@@ -86,6 +91,11 @@
                                     <button  type="submit" class="btn btn-success btn-downloadVideo col-12">Search</button>
                                 </div>
                             </div>
+                        <div class="card-footer border-top-0 d-flex justify-content-center align-items-center">
+                            <p class="source-web">© 2021 Made by
+                                <a class="fw-bold text-success" href="https://www.linkedin.com/in/7thdec/"> Nguyen Van Duc</a>
+                                </p>
+                        </div>
 
                     </div>
                 </div>
