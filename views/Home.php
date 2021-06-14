@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Category List</title>
-    <link rel="stylesheet" href="../views/libs/fontawesome-free-5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="./views/libs/fontawesome-free-5.15.2/css/all.min.css">
     <link rel="stylesheet" href="../views/libs/bootstrap-5.0.1-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../views/css/Home.css">
 </head>
