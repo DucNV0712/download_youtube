@@ -6,9 +6,9 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Category List</title>
-    <link rel="stylesheet" href="../../download_url/views/libs/fontawesome-free-5.15.2/css/all.min.css">
-    <link rel="stylesheet" href="../../download_url/views/libs/bootstrap-5.0.1-dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../download_url/views/css/Home.css">
+    <link rel="stylesheet" href="../views/libs/fontawesome-free-5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="../views/libs/bootstrap-5.0.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../views/css/Home.css">
 </head>
 <body>
 <div class="container d-flex justify-content-center align-items-center ">
@@ -107,11 +107,11 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js" integrity="sha512-2rNj2KJ+D8s1ceNasTIex6z4HWyOnEYLVC3FigGOmyQCZc2eBXKgOxQmo3oKLHyfcj53uz4QMsRCWNbLd32Q1g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="../../download_url/views/libs/bootstrap-5.0.1-dist/js/bootstrap.min.js"></script>
-<script src="../../download_url/views/libs/bootstrap-5.0.1-dist/js/bootstrap.bundle.min.js"></script>
+<script src="../views/libs/bootstrap-5.0.1-dist/js/bootstrap.min.js"></script>
+<script src="../views/libs/bootstrap-5.0.1-dist/js/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-<script src="../../download_url/views/js/index.js"></script>
+<script src="../views/js/index.js"></script>
 <script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script>
 </body>
 <script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script>
