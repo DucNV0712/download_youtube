@@ -88,7 +88,7 @@
                                     </select>
                                 </div>
                                 <div class="col-12 infoVideo">
-                                    <button  type="submit" class="btn btn-success btn-downloadVideo col-12">Search</button>
+                                    <button  type="submit" class="btn btn-success btn-downloadVideo col-12">Load</button>
                                 </div>
                             </div>
                         <div class="card-footer border-top-0 d-flex justify-content-center align-items-center">
